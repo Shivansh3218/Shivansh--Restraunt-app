@@ -4,7 +4,7 @@ Static Food app made with custom HTML and CSS
 
 ---
 
-### Click here for the [demo](https://arcane-spire-07518.herokuapp.com/restaurant/)
+### Click here for the demo https://shivansh3218.github.io/Shivansh--Restraunt-app/
 
 ---
 
