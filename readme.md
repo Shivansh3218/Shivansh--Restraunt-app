@@ -4,6 +4,9 @@ Static Food app made with custom HTML and CSS
 
 ---
 
+
+### Clone the project in your local and go live to view full content as some images might not load in live website
+
 ### Click here for the demo https://shivansh3218.github.io/Shivansh--Restraunt-app/
 
 ---
