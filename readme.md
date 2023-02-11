@@ -9,7 +9,8 @@ Static Food app made with custom HTML and CSS
 ---
 
 ### Screen shot of the application
-<img src='Output.png'>
+![Output](https://user-images.githubusercontent.com/105305947/218273221-61c514f4-9bed-4a62-a43c-da5c93954659.jpg)
+
 ---
 
 ### Technology stack
